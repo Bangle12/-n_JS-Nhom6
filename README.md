@@ -1,1 +1,2 @@
-# -n_JS-Nhom6
+# Mở FIle WebBanHangOnline bằng Visual Studio.
+#Cài đặt CSDL.
